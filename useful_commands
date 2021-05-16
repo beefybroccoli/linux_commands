@@ -1,5 +1,11 @@
 (start here)
 
+git diff
+git status
+git add -A
+git commit -m "(add comment)"
+git push
+
 (end here)
 
 //need some more comments
